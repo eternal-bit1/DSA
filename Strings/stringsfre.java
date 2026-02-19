@@ -1,4 +1,4 @@
-package DSA.Strings;
+
 
 public class stringsfre {
          public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.Strings;
+
 
 public class wordcount {
     public static int countWords(String s) {
