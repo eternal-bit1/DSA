@@ -53,7 +53,7 @@ public class LongestPalindrome {
         count+=single;
         
         System.out.println(count);
-    
+    sc.close();
 }
 
     
